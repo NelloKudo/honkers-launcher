@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.13.0] - 12.11.2025
+
 ### Fixed
 
 - Fixed size of images in the "Appearance" preferences section (most noticeable on flatpak)
@@ -362,7 +364,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <br>
 
-[unreleased]: https://github.com/an-anime-team/honkers-launcher/compare/1.12.0...next
+[unreleased]: https://github.com/an-anime-team/honkers-launcher/compare/1.13.0...next
+[1.13.0]: https://github.com/an-anime-team/honkers-launcher/compare/1.12.0...1.13.0
 [1.12.0]: https://github.com/an-anime-team/honkers-launcher/compare/1.11.0...1.12.0
 [1.11.0]: https://github.com/an-anime-team/honkers-launcher/compare/1.10.2...1.11.0
 [1.10.2]: https://github.com/an-anime-team/honkers-launcher/compare/1.10.1...1.10.2
