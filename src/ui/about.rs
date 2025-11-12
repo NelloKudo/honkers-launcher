@@ -100,10 +100,12 @@ impl SimpleComponent for AboutDialog {
 
             set_release_notes_version: &APP_VERSION,
             set_release_notes: &[
-                "<p>Added</p>",
+                "<p>Fixed</p>",
 
                 "<ul>",
-                    "<li>Added DXVK installation check for broken dxvk installations/li>",
+                    "<li>Fixed size of images in the \"Appearance\" preferences section (most noticeable on flatpak)</li>",
+                    "<li>Updated default window size in classic appearance option to match the other launchers</li>",
+                    "<li>Fixed the package name for libwebp-utils on Arch Linux</li>",
                 "</ul>"
             ].join("\n"),
 
